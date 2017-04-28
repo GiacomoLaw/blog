@@ -74,4 +74,6 @@ It's pretty simple to get the resulting HTLM into the email signature - just hig
 
 That's it! Now you have a lovely looking HTML signature. 🙂 
 
+> If you are unsure where to start, you could always find a email signature you like, and use that source code. Or, you could use a signature maker and use that source code, and then work of that.
+
 Hope this helped!
