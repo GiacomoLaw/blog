@@ -8,11 +8,11 @@ I often have snippets of code on my large blog, [The Nerdy Student](thenerdystud
 
 I decided that the CSS editor may allow me to change this - and to my suprise, it did! I knew you could edit the look of the site with it, but I didn't know you could edit the look of the post content.
 
-![Click the customize button in the Theme tab]({{site.baseurl}}/https://github.com/GiacomoLaw/blog/raw/master/images/1.PNG)
+![Click the customize button in the Theme tab](https://github.com/GiacomoLaw/blog/raw/master/images/1.PNG)
 
 You then scroll down to the advanced section, and click 'Edit CSS'.
 
-![Hit Advanced, scroll down, and then select CSS]({{site.baseurl}}/https://github.com/GiacomoLaw/blog/raw/master/images/editingcss.PNG)
+![Hit Advanced, scroll down, and then select CSS](https://github.com/GiacomoLaw/blog/raw/master/images/editingcss.PNG)
 
 I decided to use the Bootstrap style code for my blog - I had used it on many websites before, and I loved the way it looked. I entered this in the box below pre-existing CSS:
 
