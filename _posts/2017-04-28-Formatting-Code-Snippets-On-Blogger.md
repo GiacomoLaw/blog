@@ -30,6 +30,6 @@ code {
 
 And done! I hit save, and now my code snippets on my blog look nice.
 
-![The code snippets as seen in my [Bear Notes](http://www.thenerdystudent.com/2017/02/bear-notes-write-beautifully-on-iphone.html) review]({{site.baseurl}}/https://github.com/GiacomoLaw/blog/raw/master/images/html_on_blog.PNG)
+![The code snippets as seen in my [Bear Notes](http://www.thenerdystudent.com/2017/02/bear-notes-write-beautifully-on-iphone.html) review](https://github.com/GiacomoLaw/blog/raw/master/images/html_on_blog.PNG)
 
 Thanks for reading!
