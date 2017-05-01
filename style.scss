@@ -215,7 +215,6 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-	background-color: #5ba445;
 
   @include mobile {
     float: none;
@@ -282,6 +281,10 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+header {
+  background-color: #5ba445;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
