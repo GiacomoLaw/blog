@@ -12,7 +12,7 @@ You can make a HTML signature as complex or as simple as you want, and there is 
 Here is my source code for my blog signature:
 
 ```
-<table cellpadding="0" cellspacing="0" border="0" style="width: 2900px;">
+<table cellpadding="0" cellspacing="0" border="0" >
     <tbody><tr>
         <td style="padding-bottom: 5px;">
             <table cellpadding="0" cellspacing="0" border="0">
