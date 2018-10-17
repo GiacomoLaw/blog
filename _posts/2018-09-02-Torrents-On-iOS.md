@@ -11,4 +11,6 @@ If 2 GB isn't enough space for you, you can always share it on Twitter, YouTube,
 
 Seedr is a great online torrent client, and the best that I've found so far to date. It also has premium plans that allow you to download torrents at the same time as others, and offers a lot more space. Premium plans also allow you to use different servers in order to increase the speed of downloads.
 
+I then use (iCab)[https://thenerdystudent.com/2017/03/icab-mobile-a-powerful-web-browser-for-ios/] to download the finished file, and watch it in (PDF Expert on my iPad)[https://itunes.apple.com/gb/app/pdf-expert-by-readdle/id743974925?mt=8].
+
 Seedr can be found (here)[https://seedr.cc].
