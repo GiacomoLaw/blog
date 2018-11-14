@@ -1,1 +1,5 @@
 ErrorDocument 404 http://giacomolaw.me/blog/404.html
+
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80 
+RewriteRule ^(.*)$ https://www.giacomolaw.me/$1 [R,L]
