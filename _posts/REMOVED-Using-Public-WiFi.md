@@ -1,6 +1,5 @@
 ---
-layout: post Unpublished
-title: Using Public WiFi
+
 ---
 
 Often hotel wifi wil require you to log in to allow you to use it, and lots of other public networks found around also require you to log in. Sometimes you want to be able to log in again in the wifi doesn't work, and if the login period expires you'll also need to log in again.
