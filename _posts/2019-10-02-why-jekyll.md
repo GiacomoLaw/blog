@@ -7,6 +7,8 @@ I've had an increasing interest in anime and manga, and to have a little fun I d
 
 The URL I settled with was [takanodan.net](https://takanodan.net). This means *Band of the Hawk*, which comes from my favourite manga and anime *Berserk*. Plus, I think that the name sounds good, and the domain was £10 on Namecheap which is the domain registrar I use.
 
+You may realise that this blog is also hosted on Jekyll, using the Jekyll Now theme. I haven't had to maintain it and it's been working great. However, I wanted a different, more advanced, theme for this new site.
+
 First, to find a theme. I settled with the free [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) theme. I wanted a free theme as I didn't want to spend too much on the second site, however I wanted something that looked professional and that worked well on GitHub pages. I needed something that would be able to cope with tons of review posts, and something which would allow the user to sort and search the reviews. Luckily, Mediumish allows you to do that. The search feature also works great, so when I finally start adding more reviews users can search the posts.
 
 Another reason I like Mediumish is that I can insert my custom CSS easily, and then use that in my own posts with HTML. For example, I give star reviews for each review, and I can simply insert my code and it shows up great. I use the following HTML:
@@ -29,7 +31,7 @@ And in the `scss` file, I added:
 
 This allows me to easily give stars at the bottom of a post. For example, in my [Slime review on the site](https://takanodan.net/slime-review/), I use the stars to give it a rating at the bottom of the page. I think it looks clean, and doesn't affect site performance.
 
-![Star rating](/images/stars.png)
+![Star rating](https://raw.githubusercontent.com/GiacomoLaw/blog/master/images/stars.png)
 
 Overall, I really like Jekyll and GitHub pages. It's free, and runs really quickly. In addition, the developer of the theme I am using is very responsive to issues and questions, and the theme is maintained and new features are added which is really nice. The only thing that I have an issue with is caching, and I can't figure a way out to clear the cache. But I don't plan to update it that frequently so it shouldn't be too much of an issue.
 
