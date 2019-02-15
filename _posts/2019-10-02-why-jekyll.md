@@ -3,7 +3,7 @@ layout: post
 title:  "Why I Chose Jekyll For My Second Review Site"
 author: giacomo
 categories: [ Web ]
-image: images/jekyll-logo.png
+image: https://jekyllrb.com/img/logo-2x.png
 featured: true
 ---
 
