@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Why I Chose Jekyll For My Second Review Site
+title:  "Why I Chose Jekyll For My Second Review Site"
+author: giacomo
+categories: [ Web ]
+image: images/jekyll-logo.png
 ---
 
 I've had an increasing interest in anime and manga, and to have a little fun I decided to set up a second site to review this on. At first, I was going to use Wordpress, but after trying to set up add on domains, I just gave up. Besides, I wanted something light and simple, so Wordpress would defiantly not come to mind in that. I also didn't want the stress of a second Wordpress site, so I decided to use Jekyll and GitHub pages.
