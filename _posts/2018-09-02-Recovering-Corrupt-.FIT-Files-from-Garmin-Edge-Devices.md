@@ -1,6 +1,9 @@
 ---
 layout: post
-title: Recovering Corrupt .FIT Files from Garmin Edge Devices
+title:  "Recovering Corrupt .FIT Files from Garmin Edge Devices"
+author: giacomo
+categories: [ Other ]
+image: 
 ---
 
 A few months ago my Garmin Edge 810 froze, whcih meant I had to force shut it down whilst it was still recording a ride. Luckily, the files had been saved to the Garmins memory so I could access them through my PC, and pull them out. However, when I tried to upload it to Strava, it threw up an error that the files were corrupted, which I expected.
