@@ -4,6 +4,7 @@ title:  "Setting up a HTML Email Signature"
 author: giacomo
 categories: [ html ]
 image: images/IMG_8713.PNG
+featured: true
 ---
 
 I use email a lot when, probably more than any other form of contact or social media. I decided to make a HTML email signature for myself, but found that I couldn't put the raw code into the email, and have the email render it into a signature. However, there is an easy way to get around this.
