@@ -1,1 +1,0 @@
-This is my smaller blog. For my main one, please check out [thenerdystudent.com](thenerdystudent.com).
