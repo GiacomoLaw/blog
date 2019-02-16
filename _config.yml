@@ -2,7 +2,7 @@
 name: "Dev Blog | Giacomo Lawrance"
 title: "Dev Blog | Giacomo Lawrance"
 description: "My dev blog!"
-meta_description: "My dev blog, including random thoughts and ideas."
+meta_description: "My dev blog, including random thoughts and ideas. I talk mainly about front end web development."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
