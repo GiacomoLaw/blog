@@ -4,6 +4,7 @@ title:  "Formatting Code Snippets on Google Blogger"
 author: giacomo
 categories: [ Web, html ]
 image: https://github.com/GiacomoLaw/blog/raw/master/images/html_on_blog.PNG
+description: "A guide on formatting code snippets on Google Blogger."
 ---
 
 Lots of people use Blogger to host their blogs, but little know that you can actually edit the CSS that Blogger displays. It's one of the most powerful Blogger features, and lets you truly customize your blog. You can get rid of elements you don't like, change the look of content in your posts, and so much more.

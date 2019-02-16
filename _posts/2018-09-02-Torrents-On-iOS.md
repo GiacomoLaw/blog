@@ -4,6 +4,7 @@ title:  "Torrenting on iOS"
 author: giacomo
 categories: [ Other ]
 image: https://www.seedr.cc/images/social_ad.png
+description: "A look at how to download and manage torrents on iOS."
 ---
 
 iOS is an interesting platform when it comes to torrenting - previously, various apps were avaiable on the App Store, and they were soon removed. However, there are still ways to torrent on iOS, with the use on online torrent clients. Seedr is the best, free, online torrenting client that I've found.

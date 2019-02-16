@@ -5,13 +5,14 @@ author: giacomo
 categories: [ Web ]
 image: https://jekyllrb.com/img/logo-2x.png
 featured: true
+description: "Why I chose Jekyll over Wordpress and other platforms to host my smaller blogs."
 ---
 
 I've had an increasing interest in anime and manga, and to have a little fun I decided to set up a second site to review this on. At first, I was going to use Wordpress, but after trying to set up add on domains, I just gave up. Besides, I wanted something light and simple, so Wordpress would defiantly not come to mind in that. I also didn't want the stress of a second Wordpress site, so I decided to use Jekyll and GitHub pages.
 
 The URL I settled with was [takanodan.net](https://takanodan.net). This means *Band of the Hawk*, which comes from my favourite manga and anime *Berserk*. Plus, I think that the name sounds good, and the domain was £10 on Namecheap which is the domain registrar I use.
 
-You may realise that this blog is also hosted on Jekyll, using the Jekyll Now theme. I haven't had to maintain it and it's been working great. However, I wanted a different, more advanced, theme for this new site.
+You may realize that this blog is also hosted on Jekyll. I haven't had to maintain it and it's been working great, and the theme is powerful and often updated. It allows me to keep SEO in mind, whilst still easily edit posts.
 
 First, to find a theme. I settled with the free [Mediumish](https://github.com/wowthemesnet/mediumish-theme-jekyll) theme. I wanted a free theme as I didn't want to spend too much on the second site, however I wanted something that looked professional and that worked well on GitHub pages. I needed something that would be able to cope with tons of review posts, and something which would allow the user to sort and search the reviews. Luckily, Mediumish allows you to do that. The search feature also works great, so when I finally start adding more reviews users can search the posts.
 
