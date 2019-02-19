@@ -4,7 +4,6 @@ title:  "Why I Chose Jekyll For My Second Review Site"
 author: giacomo
 categories: [ Web ]
 image: https://jekyllrb.com/img/logo-2x.png
-featured: true
 description: "Why I chose Jekyll over Wordpress and other platforms to host my smaller blogs."
 ---
 

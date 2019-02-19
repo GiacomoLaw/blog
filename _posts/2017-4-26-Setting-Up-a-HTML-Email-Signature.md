@@ -4,7 +4,6 @@ title:  "Setting up a HTML Email Signature"
 author: giacomo
 categories: [ html ]
 image: images/IMG_8713.PNG
-featured: true
 description: "How to set up your own HTML email signature, to make your emails look better and more professional."
 ---
 
