@@ -5,13 +5,13 @@
     <description>My dev blog!</description>
     <link>/blog/</link>
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 13:32:15 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 13:32:15 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 13:40:57 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 13:40:57 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Save time with .bat files</title>
-        <description>&lt;p&gt;If you often type in the same repetitive commands on your CMD, .bat files are a great way to speed up your workflow. Essentially, you can create a .bat file to quickly run a script. For a simple example, if I wanted to build a site with Jekyll, usually I would have to type &lt;code class=&quot;highlighter-rouge&quot;&gt;set JEKYLL_ENV=production&lt;/code&gt; to set Jekyll to build for a production environment, then type out &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt; to build the site. However, with .bat files, I can simple run the file and it does it all automatically.&lt;/p&gt;
+        <description>&lt;p&gt;If you often type in the same repetitive commands on your CMD, .bat files are a great way to speed up your workflow. Essentially, you can create a .bat file to quickly run a script. For a simple example, if I wanted to build a site with Jekyll, usually I would have to type &lt;code class=&quot;highlighter-rouge&quot;&gt;set JEKYLL_ENV=production&lt;/code&gt; to set Jekyll to build for a production environment, then type out &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll build&lt;/code&gt; to build the site. However, with .bat files, I can simply run the file and it does it all automatically.&lt;/p&gt;
 
 &lt;p&gt;The issue I faced is that I wanted to add the .bat name as a command that I could execute in any folder I wanted. Luckily, this is incredibly easy to do.&lt;/p&gt;
 
