@@ -2,7 +2,7 @@
 layout: post
 title:  "Save time with .bat files"
 author: giacomo
-categories: [ Web ]
+categories: [ local dev ]
 image: images/2019-02-19-cmd/batfiles.png
 featured: true
 description: "How to run .bat files from anywhere on Windows CMD like a command."

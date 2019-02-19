@@ -5,8 +5,8 @@
     <description>My dev blog!</description>
     <link>/blog/</link>
     <atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Feb 2019 13:40:57 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Feb 2019 13:40:57 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Feb 2019 13:54:14 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Feb 2019 13:54:14 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -41,7 +41,7 @@
         <guid isPermaLink="true">/blog/2019/02/cmd-everywhere/</guid>
         
         
-        <category>Web</category>
+        <category>local dev</category>
         
       </item>
     
