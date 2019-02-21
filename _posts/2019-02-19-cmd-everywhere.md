@@ -17,11 +17,10 @@ The issue I faced is that I wanted to add the .bat name as a command that I coul
 3. Search for environment variables in Windows search. Select the 'Edit the system environment variables'.
 4. In the Window that pops up, hit the 'Environment Variables' button.
 5. You should see an option for `Path` like below. Click on it, and then click 'Edit'.
-
-![Path]({{ site.baseurl }}/images/2019-02-19-cmd/pathloc.png)
-
 6. Click 'New' on the right side.
 7. Paste in your address of the folder that you copied in step 2.
+
+![Path]({{ site.baseurl }}/images/2019-02-19-cmd/pathloc.png)
 
 Now you are done! You can call your .bat files by typing their names into the CMD.
 
