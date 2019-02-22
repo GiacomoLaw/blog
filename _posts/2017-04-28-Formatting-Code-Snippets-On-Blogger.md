@@ -21,7 +21,7 @@ You then scroll down to the advanced section, and click 'Edit CSS'.
 
 I decided to use the Bootstrap style code for my blog - I had used it on many websites before, and I loved the way it looked. I entered this in the box below pre-existing CSS:
 
-```
+{% highlight html %}
 code {
   font-family: monospace, monospace;
   font-size: 1em;
@@ -31,7 +31,7 @@ code {
   background-color: #f7f7f9;
   border-radius: 0.25rem;
 }
-```
+{% endhighlight %}
 
 And done! I hit save, and now my code snippets on my blog look nice.
 

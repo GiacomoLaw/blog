@@ -17,21 +17,21 @@ First, to find a theme. I settled with the free [Mediumish](https://github.com/w
 
 Another reason I like Mediumish is that I can insert my custom CSS easily, and then use that in my own posts with HTML. For example, I give star reviews for each review, and I can simply insert my code and it shows up great. I use the following HTML:
 
-```
+{% highlight html %}
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star checked"></span>
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
 <span class="fa fa-star"></span>
-```
+{% endhighlight %}
 
 And in the `scss` file, I added:
 
-```
+{% highlight css %}
 .checked {
 	color: orange;
 }
-```
+{% endhighlight %}
 
 This allows me to easily give stars at the bottom of a post. For example, in my [Slime review on the site](https://takanodan.net/slime-review/), I use the stars to give it a rating at the bottom of the page. I think it looks clean, and doesn't affect site performance.
 

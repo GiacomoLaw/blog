@@ -19,10 +19,10 @@ I really don't like the Guternburg editor that Wordpress introduced in version 5
 
 It's that easy. I also added a comment above mine, so I know what the line is for.
 
-```
+{% highlight php %}
 // disable block editor
 add_filter('use_block_editor_for_post', '__return_false');
-```
+{% endhighlight %}
 
 As a note, if your theme is updated often, you may want to look at [using a child theme](https://developer.wordpress.org/themes/advanced-topics/child-themes/) so your changes are still in place every time you update the theme.
 

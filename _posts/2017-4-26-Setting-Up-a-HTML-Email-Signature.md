@@ -15,7 +15,7 @@ You can make a HTML signature as complex or as simple as you want, and there is 
 
 Here is my source code for my blog signature:
 
-```
+{% highlight html %}
 <table cellpadding="0" cellspacing="0" border="0" >
     <tbody><tr>
         <td style="padding-bottom: 5px;">
@@ -66,7 +66,7 @@ Here is my source code for my blog signature:
         </td>
     </tr>
 </tbody></table>
-```
+{% endhighlight %}
 
 It's quite long, but it does look good:
 
