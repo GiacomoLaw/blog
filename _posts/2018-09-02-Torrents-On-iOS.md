@@ -2,7 +2,7 @@
 layout: post
 title:  "Torrenting on iOS"
 author: giacomo
-categories: [ Other ]
+categories: [ other ]
 image: https://www.seedr.cc/images/social_ad.png
 description: "A look at how to download and manage torrents on iOS."
 ---

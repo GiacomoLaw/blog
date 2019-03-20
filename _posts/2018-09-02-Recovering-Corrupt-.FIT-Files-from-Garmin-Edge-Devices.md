@@ -2,7 +2,7 @@
 layout: post
 title:  "Recovering Corrupt .FIT Files from Garmin Edge Devices"
 author: giacomo
-categories: [ Other ]
+categories: [ other ]
 image: 
 description: "How to recover corrupt Garmin save files."
 ---
