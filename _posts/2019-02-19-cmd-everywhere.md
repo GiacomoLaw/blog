@@ -27,3 +27,5 @@ Now you are done! You can call your .bat files by typing their names into the CM
 ![Path]({{ site.baseurl }}/images/2019-02-19-cmd/batfiles.png)
 
 I use this a lot when working with this blog and a few other Jekyll sites. It lets me serve, and build them, in a second instead of having to type out the command.
+
+If you want to see a few of my .bat files, you [can do so in this Github repository](https://github.com/GiacomoLaw/bat-files).
