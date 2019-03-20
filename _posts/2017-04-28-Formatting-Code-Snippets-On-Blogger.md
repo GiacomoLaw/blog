@@ -2,7 +2,8 @@
 layout: post
 title:  "Formatting Code Snippets on Google Blogger"
 author: giacomo
-categories: [ Web, html ]
+categories: [ web ]
+tags: [ html ]
 image: https://github.com/GiacomoLaw/blog/raw/master/images/html_on_blog.PNG
 description: "A guide on formatting code snippets on Google Blogger."
 ---

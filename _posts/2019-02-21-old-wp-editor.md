@@ -2,7 +2,8 @@
 layout: post
 title:  "Get back the Wordpress Classic editor, and disable Guternburg in one line"
 author: giacomo
-categories: [ php, wordpress ]
+categories: [ wordpress ]
+tags: [ php ]
 image: images/2019-02-21-wpeditor/cover.png
 description: "How to go back the the better Wordpress Classic editor in under a minute."
 ---

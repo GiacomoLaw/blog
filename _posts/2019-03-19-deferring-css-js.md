@@ -2,7 +2,8 @@
 layout: post
 title:  "How to easily defer CSS & JS to improve site speed"
 author: giacomo
-categories: [ web, html ]
+categories: [ Web ]
+tags: [ html, css, js ]
 image: images/2019-03-19-defer/cover.png
 featured: true
 description: "Speeding your site up dramatically doesn't have to be hard - deferring CSS & JS can take a few seconds, and have a huge site speed impact."
