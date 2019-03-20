@@ -2,7 +2,7 @@
 layout: post
 title:  "What should you have in your .htaccess?"
 author: giacomo
-categories: [ Web ]
+categories: [ web ]
 tags: [ server side ]
 image: images/2019-03-16-htaccess/cover.png
 description: "Important snippets to include in your servers .htaccess to make your site better."

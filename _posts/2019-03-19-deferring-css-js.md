@@ -2,7 +2,7 @@
 layout: post
 title:  "How to easily defer CSS & JS to improve site speed"
 author: giacomo
-categories: [ Web ]
+categories: [ web ]
 tags: [ html, css, js ]
 image: images/2019-03-19-defer/cover.png
 featured: true
